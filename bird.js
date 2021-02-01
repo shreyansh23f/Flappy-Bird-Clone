@@ -8,7 +8,7 @@
 
 class Bird {
   constructor() {
-    this.y = height / 2;
+    this.y = height / 3;
     this.x = 64;
 
     this.gravity = 0.6;
