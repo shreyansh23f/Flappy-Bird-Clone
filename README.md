@@ -5,3 +5,4 @@ This repository is starting with the code from [Coding Challenge #31 on YouTube]
 Coding Train themed graphics are welcome! (But keep it simple!)
 
 * [Play the game!](https://codingtrain.github.io/Flappy-Bird-Clone/)
+![Annotation 2021-02-01 185745](https://user-images.githubusercontent.com/72023025/106477118-d0dab700-64cd-11eb-9914-e179a0a80285.jpg)
